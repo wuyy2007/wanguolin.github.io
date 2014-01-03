@@ -61,7 +61,9 @@ Jekyll的开发环境是Ruby，这就意味着高度建议你在Linux或是Mac�
 
 博客生成系统好了以后，我们来进行部署，部署部分是外面流传的一些文章中没有详细指出的：在Github所支持的static page hosting中，存在着两种形态：
 
-1、通过username.github.io 可以直接访问得到的————目前我也是这样做的————如果希望Github在此编译渲染你的页面，你需要将你的repo命名为username.github.io，*并且提交到master主分支*。
+1、通过username.github.io 可以直接访问得到的————目前我也是这样做的————如果希望Github在此编译渲染你的页面，你需要将你的repo命名为username.github.io，*并且提交到master默认主分支*。
+
+2、通过username.github.io/projectname来访问的，这需要将你的代码环境（上文中的my_blog目录）*提交至projectname下面的gh-pages分支*。
 
 
 
