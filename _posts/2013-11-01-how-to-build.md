@@ -37,24 +37,20 @@ Jekyll的开发环境是Ruby，这就意味着高度建议你在Linux或是Mac�
 
 3、为了维持ruby jekyll等一系列工具链的版本一致性，请键入：gem install bundler安装bundler，之后建立一个如下的Gemfile供bundle update的时候读取。
 
-`
-source 'https://rubygems.org'
 
-gem 'github-pages'
-`
+    source 'https://rubygems.org'
+    gem 'github-pages'
+
 
 4、mkdir my_blog，jekyll new my_blog - 在目录my_blog下生成博客框架。
 
 5、_post 目录下的以.md为后缀的文件就是markdown语法的一篇文章。
 
-6、预览：jekyll serve。在本机起一个监听4000端口的web server，可以在浏览器中用127.0.0.1:4000预览。
+6、在_config.yml的同级目录执行jekyll build，然后预览：jekyll serve。预览的时候会在本机起一个监听4000端口的web server，可以在浏览器中查看127.0.0.1:4000。
 
-6，之后1. 拷贝 /Applications/Adobe Photoshop CC；
+7、build的结果会放在_site目录中。但是该目录无需添加入下面的git repo中，因为Github会根据源码自行编译，所以有的jekyll主题会将_site目录放入.gitignore文件中。
 
-2. 拷贝 /Library/Application Support/Adobe 以及 ~/Library/Application Support/Adobe;
+三、Github部署
 
-3. 运行 PS，提示“Adobe Application Support 文件夹中缺少运行 Photoshop 所需的一个或多个文件。请运行 Photoshop 安装程序，并重新安装 Photoshop。”，网上非常多人反映此问题，但没有解决方案。突然转念一想，换成英文关键字搜索，发现 [Adobe 官网有篇文章](http://helpx.adobe.com/photoshop/kb/error-one-or-files-application.html)，内容比较长，说白了就是还要拷贝 /Library/ScriptingAdditions/Adobe Unit Types.osax
 
-4. 再次运行，一切搞定收工。
 
-终于全部软件都是“绿色”啦……
