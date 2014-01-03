@@ -16,6 +16,8 @@ tags: 折腾
 
 3、服务器的维护成本摊给了Github，如果愿意使用username.github.io的话，连域名都省下了。
 
+4、逼格略高。
+
 我在搭建这个系统的过程中，阅读了不少指导性的文章，其中最有帮助的要属[Github](http://help.github.com/categories/20/articles/)和[Jekyll的官方文档](http://jekyllrb.com/docs/home/)，但是如果你觉得中文更加亲近一些，加上我走过的弯路兴许能够对你有帮助，你就可以考虑读下去。
 
 
@@ -57,15 +59,24 @@ Jekyll的开发环境是Ruby，这就意味着高度建议你在Linux或是Mac�
 2、gem install rdiscount, 并且将_config.yml中默认的markdown渲染引擎更改为rdiscount。因为坊间传闻默认的markdown渲染引擎非常不好用。
 
 
-三、Github部署
+三、Github部署 
 
-博客生成系统好了以后，我们来进行部署，部署部分是外面流传的一些文章中没有详细指出的：在Github所支持的static page hosting中，存在着两种形态：
+博客生成系统好了以后，我们来进行部署：在Github的static page hosting中，存在着两种形态：
 
 1、通过username.github.io 可以直接访问得到的————目前我也是这样做的————如果希望Github在此编译渲染你的页面，你需要将你的repo命名为username.github.io，*并且提交到master默认主分支*。
 
 2、通过username.github.io/projectname来访问的，这需要将你的代码环境（上文中的my_blog目录）*提交至projectname下面的gh-pages分支*。
 
 
+四、模板系统
+
+这套Github博客生成框架内含着一个和我喜欢Linux同样的一个原因：极简主义。
+
+核心框架只是一个模板引擎而已，基于这个模板引擎，你可以open source自己的风格布局，也可以加上自己的功能（Javascript），甚至可以加上三方的评论系统，计数器，等等……
 
 
+本来我打算推荐一些模板，但是想到我之蜜糖，彼之砒霜，您不妨自己去搜索jekyll theme。
+
+
+我这套风格使用的是（http://yonsm.net）还有一个修改版（http://webforgs.me）,作者欢迎fork，但是显然，如果想要加入自己喜欢的功能，还需要阅读一下模板代码，更多的了解工作原理以后进行修改。
 
