@@ -50,7 +50,20 @@ Jekyll的开发环境是Ruby，这就意味着高度建议你在Linux或是Mac�
 
 7、build的结果会放在_site目录中。但是该目录无需添加入下面的git repo中，因为Github会根据源码自行编译，所以有的jekyll主题会将_site目录放入.gitignore文件中。
 
+（以下为可选）
+
+1、gem install jekyll-bootstrap，安装jekyll辅助，可以用命令行来帮助生成post，about等页面。
+
+2、gem install rdiscount, 并且将_config.yml中默认的markdown渲染引擎更改为rdiscount。因为坊间传闻默认的markdown渲染引擎非常不好用。
+
+
 三、Github部署
+
+博客生成系统好了以后，我们来进行部署，部署部分是外面流传的一些文章中没有详细指出的：在Github所支持的static page hosting中，存在着两种形态：
+
+1、通过username.github.io 可以直接访问得到的————目前我也是这样做的————如果希望Github在此编译渲染你的页面，你需要将你的repo命名为username.github.io，*并且提交到master主分支*。
+
+
 
 
 
