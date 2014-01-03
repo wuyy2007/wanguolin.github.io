@@ -22,32 +22,34 @@ tags: 折腾
 
 一、基本原理
 
-1、我们之所以有机会能够图文茂的在Github上面书写博客，还要得益于Github的Page.Github,（现在更名为username.github.io）功能。这个功能可以让开发者或者企业host一些静态页面在指定的地点，他的工作原理是通过Jekyll（下面介绍）来编译放在指定repo的模板，从而生成静态的html页面再展现在（和指定repo位置）对应的url位置。
+1、我们之所以有机会能够在Github上图文并茂，这要得益于Github的Page.Github（现入口更名为username.github.io）。这个功能可以让开发者或者企业host一些静态页面在指定的地点，他的工作原理是通过Jekyll（下面介绍）来编译放在指定repo的模板，从而生成静态的html页面再展现在（和指定repo位置）对应的url位置。
 
 2、Jekyll是一个建站工具（Transform your pain text into static websites and blogs），其本质是一个模板引擎，可以根据模板和配置文件，生成博客或是网站。
     
 Jekyll的开发环境是Ruby，这就意味着高度建议你在Linux或是Mac系统下完成环境的搭建工作。
 
 
-2. 环境搭建
+二、环境搭建
 
 1、安装ruby和ruby-dev。ruby-dev中存在一些gem install所需要的依赖。
 
 2、gem install jekyll
 
-3、为了维持ruby jekyll等一系列工具链的版本一致性，强烈建议gem install bundler,然后建立一个如下的Gemfile來共bundle update的时候读取。
+3、为了维持ruby jekyll等一系列工具链的版本一致性，请键入：gem install bundler安装bundler，之后建立一个如下的Gemfile供bundle update的时候读取。
 
 `
 source 'https://rubygems.org'
+
 gem 'github-pages'
 `
 
+4、mkdir my_blog，jekyll new my_blog - 在目录my_blog下生成博客框架。
 
-3. ***；
+5、_post 目录下的以.md为后缀的文件就是markdown语法的一篇文章。
 
-二、“绿色”迁移
+6、预览：jekyll serve。在本机起一个监听4000端口的web server，可以在浏览器中用127.0.0.1:4000预览。
 
-1. 拷贝 /Applications/Adobe Photoshop CC；
+6，之后1. 拷贝 /Applications/Adobe Photoshop CC；
 
 2. 拷贝 /Library/Application Support/Adobe 以及 ~/Library/Application Support/Adobe;
 
