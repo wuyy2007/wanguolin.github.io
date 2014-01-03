@@ -6,7 +6,7 @@ tags: 折腾
 ---
 
 
-本来是准备用wordpress写一点读书笔记的，结果在研究是否存在将wordpress备份到Github的插件或者脚本的时候，发现早就有成熟的方案可以在Github直接搭建自己的博客系统了。
+本来是准备用wordpress写一点读书笔记的，结果在找可以将wordpress备份到Github插件或脚本的时候，才发现早就有成熟的方案可以在Github直接搭建自己的博客系统了。
 
 对于程序员来说，这样做的好处是显而易见的：
 
@@ -22,19 +22,26 @@ tags: 折腾
 
 一、基本原理
 
-    1、我们之所以有机会能够图文茂的在Github上面书写博客，还要得益于Github的Page.Github,（现在更名为username.github.io）功能。这个功能可以让开发者或者企业host一些静态页面在指定的地点，他的工作原理是通过Jekyll（下面介绍）来编译放在指定repo的模板，从而生成静态的html页面再展现在（和指定repo位置）对应的url位置。
-    2、Jekyll是一个建站工具（Transform your pain text into static websites and blogs），其本质是一个模板引擎，可以根据模板和配置文件，生成博客或是网站。
+1、我们之所以有机会能够图文茂的在Github上面书写博客，还要得益于Github的Page.Github,（现在更名为username.github.io）功能。这个功能可以让开发者或者企业host一些静态页面在指定的地点，他的工作原理是通过Jekyll（下面介绍）来编译放在指定repo的模板，从而生成静态的html页面再展现在（和指定repo位置）对应的url位置。
+
+2、Jekyll是一个建站工具（Transform your pain text into static websites and blogs），其本质是一个模板引擎，可以根据模板和配置文件，生成博客或是网站。
     
-    Jekyll的开发环境是Ruby，这就意味着高度建议你在Linux或是Mac系统下完成环境的搭建工作。
+Jekyll的开发环境是Ruby，这就意味着高度建议你在Linux或是Mac系统下完成环境的搭建工作。
 
 
 2. 环境搭建
 
-    1、安装ruby和ruby-dev。ruby-dev中存在一些gem install所需要的依赖。
-    2、gem install jekyll
-    3、为了维持ruby jekyll等一系列工具链的版本一致性，强烈建议gem install bundler,然后建立一个如下的Gemfile來共bundle update的时候读取。
-    source 'https://rubygems.org'
-    gem 'github-pages'
+1、安装ruby和ruby-dev。ruby-dev中存在一些gem install所需要的依赖。
+
+2、gem install jekyll
+
+3、为了维持ruby jekyll等一系列工具链的版本一致性，强烈建议gem install bundler,然后建立一个如下的Gemfile來共bundle update的时候读取。
+
+`
+source 'https://rubygems.org'
+gem 'github-pages'
+`
+
 
 3. ***；
 
