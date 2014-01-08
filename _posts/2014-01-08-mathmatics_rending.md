@@ -24,7 +24,7 @@ tags: [折腾]
     src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
 
-当然你可以将这段js代码host到你的Github，但是根据浏览器资源加载机制，尽量分布到不同的域名更有可能被[异步加载]（http://www.chromium.org/developers/design-documents/process-models）。
+当然你可以将这段js代码host到你的Github，但是根据浏览器资源加载机制，尽量分布到不同的域名，可能更容易[异步加载](http://www.chromium.org/developers/design-documents/process-models)。
 
 在我的Jekyll文件结构中，根模板的位置在_layout中（看过web框架代码的人应该比较好理解Jekyll的文件布局），在安装了某些模板插件的Jekyll目录下，有可能位于：
 
