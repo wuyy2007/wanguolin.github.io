@@ -41,7 +41,7 @@ tags: [折腾]
 
 现在你可以在`$$`和`$$`之间书写数学公式的语法了。
 
-来看几个例子：
+来看几个例子，右键有惊喜：
 
 ### $$ \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)  $$
                 
