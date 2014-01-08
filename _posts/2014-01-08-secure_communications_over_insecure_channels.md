@@ -16,7 +16,8 @@ tags: [密码学]
 
 `C = E(p) = (p + k)mod(26)`
 
-[1]: "Cryptography and Network Security, Principles and Practice" (/assets/cryptography_and_network_security.pdf)
+[1]: (/assets/cryptography_and_network_security.pdf) "Cryptography and Network Security - Principles and Practice, 2.2: Substitution Techniques. 《密码编码学与网络信息安全》"
+
 
 
 
