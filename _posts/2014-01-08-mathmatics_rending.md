@@ -3,7 +3,7 @@ layout: post
 title: "在Github.Page渲染数学公式"
 description: ""
 category: 折腾
-tags: [折腾]
+tags: [Github]
 ---
 {% include JB/setup %}
 
