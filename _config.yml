@@ -1,4 +1,4 @@
-markdown: rdiscount
+markdown: kramdown
 permalink: /:title/
 url: http://wanguolin.github.io
 name: Guolin.Wan_Tech_Reading
@@ -13,3 +13,4 @@ pygments: true
 safe: true
 paginate: 20
 about: "这是我在github搭建的一个读书笔记类型的博客，他采用了yihui同学的框架。"
+
