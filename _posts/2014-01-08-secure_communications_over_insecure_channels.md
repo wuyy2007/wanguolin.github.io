@@ -42,6 +42,16 @@ $$ \begin{bmatrix}\mathbf{c}_1 \\ \mathbf{c}_2 \\ \mathbf{c}_3 \end{bmatrix} =
 \begin{bmatrix} \mathbf{k}_{11} \mathbf{k}_{12} \mathbf{k}_{13} \\ \mathbf{k}_{21} \mathbf{k}_{22} \mathbf{k}_{23}  \\ \mathbf{k}_{31} \mathbf{k}_{32} \mathbf{k}_{33} \end{bmatrix}  
     \begin{bmatrix} \mathbf{p}_1 \mathbf{p}_2 \mathbf{p}_3 \end{bmatrix} $$
 
+
+以上的方法都是用代换的方法来做信息的变幻，前面我们提到变幻的方法，有代换和置换，那么置换的思路是怎样的呢？置换就是在原有信息的集合之内做文章，譬如我们正常人读写顺序是从左往右按行读取，那么我们将信息从右往左按列重排呢？原先的阅读方式就一筹莫展了，而新的排布方式，就是还原出原始数据的密钥。由于单纯的置换仍然保留着原文一样的词频，这确实是留给密码攻击者的一个破绽，但是对于多轮替换而言，密文就会越来越杂乱无张，难于分析。在由计算机实现的置换算法中，往往需要而外的额存储空间，和由置换规则所带来的要求——长度是某个规则（行列置换）的倍数，因此置换密码并没由代换密码那么通用。
+
+
+二战时候著名的Enigma密码机的本质就是一个多表代换，Enigma由一组转轮和字母输入按键所组成。每一个字母和每一组转轮，组成了一个单表映射，每输入一个字母，转轮发生一次旋转，当转轮旋转达到一个周期的时候，会引发同组的下一个转轮发生一个旋转，同时单表映射发生更换。对于由三个转轮26个字母所组成的密码机而言,三个滚轮协同完成的一个周期所生成的代换表的数目为$$ 26^3 $$ = 17576 。对于如此强大的周期而言，
+
+
+对于如此强大的
+以上方法
+
 [1]:/assets/cryptography_and_network_security.pdf  "Cryptography and Network Security - Principles and Practice, Chapter 2.2.2, Substitution Techniques. 《密码编码学与网络信息安全》"
 
 
