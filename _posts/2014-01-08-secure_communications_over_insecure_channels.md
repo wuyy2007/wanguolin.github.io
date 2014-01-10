@@ -35,9 +35,12 @@ $$ \mathbf{c}_2 = ( \mathbf{k}_{21}\mathbf{p}_1 + \mathbf{k}_{22}\mathbf{p}_2 + 
 
 $$ \mathbf{c}_3 = ( \mathbf{k}_{31}\mathbf{p}_1 + \mathbf{k}_{32}\mathbf{p}_2 + \mathbf{k}_{33}\mathbf{p}_3 ) mod 26 $$
 
-p11
+用矩阵表示如下：
 
 
+$$ \begin{bmatrix}\mathbf{c}_1 \\ \mathbf{c}_2 \\ \mathbf{c}_3 \end{bmatrix} = 
+\begin{bmatrix} \mathbf{k}_{11} \mathbf{k}_{12} \mathbf{k}_{13} \\ \mathbf{k}_{21} \mathbf{k}_{22} \mathbf{k}_{23}  \\ \mathbf{k}_{31} \mathbf{k}_{32} \mathbf{k}_{33} \end{bmatrix}  
+    \begin{bmatrix} \mathbf{p}_1 \mathbf{p}_2 \mathbf{p}_3 \end{bmatrix} $$
 
 [1]:/assets/cryptography_and_network_security.pdf  "Cryptography and Network Security - Principles and Practice, Chapter 2.2.2, Substitution Techniques. 《密码编码学与网络信息安全》"
 
