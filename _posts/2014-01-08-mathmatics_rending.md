@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Github.Page渲染数学公式"
+title: "在 Github.Page渲染数学公式"
 description: ""
 category: 折腾
 tags: [Github]

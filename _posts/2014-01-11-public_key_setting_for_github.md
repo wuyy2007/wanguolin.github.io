@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在Github 设置公钥实现更加方便和安全的代码提交方式"
+title: "Github 的免密码提交————通过配置公钥做到更加方便和安全"
 description: ""
 category: 折腾
 tags: [Github]
