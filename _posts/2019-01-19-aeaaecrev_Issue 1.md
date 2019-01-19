@@ -12,7 +12,8 @@ tags: [期刊]
 <p><strong>Abstract:</strong>&nbsp;&nbsp;&nbsp;This paper asks whether elite colleges help students outside of historically advantaged groups reach top positions in the economy. I combine administrative data on income and leadership teams at publicly traded firms with a regression discontinuity design based on admissions rules at elite business-focused degree programs in Chile. The 1.8% of college students admitted to these programs account for 41% of leadership positions and 39% of top 0.1% incomes. Admission raises the number of leadership positions students hold by 44% and their probability of attaining a top 0.1% income by 51%. However, these gains are driven by male applicants from high-tuition private high schools, with zero effects for female students or students from other school types with similar admissions test scores. Admissions effects are equal to 38% of the gap in rates of top attainment by gender and 54% of the gap by high school background for male students. A difference-in-differences analysis of the rates at which pairs of students lead the same firms suggests that peer ties formed between college classmates from similar backgrounds may play an important role in driving the observed effects.</p>
 <p><strong>DOI</strong>:
 </p>
-</br></br>  
+</br>
+</br>  
 
 <p><strong>Some Causal Effects of an Industrial Policy</strong></p>
 <p>Chiara Criscuolo&nbsp;&nbsp;&nbsp;Ralf Martin&nbsp;&nbsp;&nbsp;Henry G. Overman&nbsp;&nbsp;&nbsp;John  Van Reenen&nbsp;&nbsp;&nbsp;</p>
