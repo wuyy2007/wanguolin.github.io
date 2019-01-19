@@ -1,24 +1,16 @@
 ---
 layout: post
-title: "公式测试"
+title: "预期与汇价"
 description: ""
 category: 经济学
 tags: [外汇]
 ---
 {% include JB/setup %}
 
-来看几个例子，右键有惊喜：
+央行货币委员会委员接受媒体专访本就是一件少见的事，而在这少有的事件中，一把手往往才是主角，但事情似乎正在发生变化。上周五(9月8号)，中国央行货币政策的主要决策人之一，同时也是学院派的樊纲接受了彭博电视采访，其中重要的是他对人民币的看法，尤其阐述了“中国政府会适度控制汇率走势，允许人民币缓慢贬值”。需要知道的，官方对人民币的基本定位一直是：中国经济的基本面决定了人民币不存在长期贬值的基础，中国政府有能力保持人民币在合理均衡水平上的基本稳定。
+当然，据现有的渠道仍无法印证樊纲的表述即代表官方态度的转变，但周五的外汇市场却闻风而起，在岸汇价一度贬值200点，接近一周的最低点，而关于人民币的担忧再次甚嚣尘上。那么，目前外汇运行的实际情况到底如何？如果樊纲的表态是作为中国央行预期管理的尝试，那选择此时官方引导预期意欲何为？而这又对金融市场的其他资产价格带来怎样影响？我们试图作试探性的解释。
 
-$$ \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)  $$
-                
-                       
-### $$ \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}\mathbf{i} & \mathbf{j} & \mathbf{k} \\\frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\\frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0\end{vmatrix} $$            
-                
-                         
-### $$ \begin{aligned} \nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}} \\   \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\\nabla \cdot \vec{\mathbf{B}} & = 0 \end{aligned} $$            
-                
-                        
-# $$ \frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} = 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}} {1+\frac{e^{-8\pi}} {1+\ldots} } } } $$             
-         
-         
-千万不要问我上面那几坨是什么鸟意思。
+
+当前的人民币运行机制是自今年元旦后的一次小范围汇改后逐渐成型的。具体内容是：每天的人民币实时汇价围绕当天公布的中间价上下2%的幅度内浮动，而中间价则依据“前收盘汇率+一篮子货币汇率”变化。解释通俗点也就是，中间价基本会奠定每天人民币的整体运行方向，而中间价又只需要看前一日人民币的在岸收盘价以及隔夜国际外汇市场的运行动向即可。
+因此，对于每天开出的中间价已揭开了此前掩盖央行黑箱操作的遮羞布，基本上现在都可以预测出来。比如，如果前一日人民币收盘价较当天的中间价明显走低，而同时当天夜市国际外汇运行又比较平稳的话，第二天的中间价基本就会有等量的下调。而又假设前一日收盘价没有明显的波动，但当晚的国际外汇，比如美元，收到较大的冲击而强烈上涨时，第二天一大早的中间价就会相应下调，最近的一个例子可参考周一（9.20）的情况。
+
