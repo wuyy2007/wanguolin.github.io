@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "在 Github.Page渲染数学公式"
+title: "这是一篇测试文章"
 description: ""
-category: 折腾
-tags: [Github]
+category: 经济学
+tags: [外汇]
 ---
 {% include JB/setup %}
 
@@ -54,6 +54,7 @@ tags: [Github]
                         
 ### $$ \frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} = 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}} {1+\frac{e^{-8\pi}} {1+\ldots} } } } $$             
          
+		 
 ### $$ \frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} = 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}} {1+\frac{e^{-8\pi}} {1+\ldots} } } } $$             
          
                   
