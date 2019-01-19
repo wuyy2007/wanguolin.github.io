@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Journal of FinanceVol 73 (2018)Issue 6"
+title: "Journal of FinanceVol 73 (2018)Issue 6"
 description: ""
 category: 经济学
 tags: [期刊]
