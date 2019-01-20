@@ -3,7 +3,7 @@ date: 2019-01-20 21:33:17+00:00
 layout: post
 title: Papers about expectation published in top journals
 categories: 经济学
-tags: 汇率
+tags: 预期
 ---
 
 <table border=1>
