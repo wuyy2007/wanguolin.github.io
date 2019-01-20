@@ -10,15 +10,14 @@ tags: [期刊]
 <p><strong>Do ETFs Increase Volatility?</strong></p>
 <p>Itzhak Ben‐david&nbsp;&nbsp;&nbsp;Francesco Franzoni&nbsp;&nbsp;&nbsp;Rabih Moussawi&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Abstract:</strong>&nbsp;&nbsp;&nbsp;Due to their low trading costs, exchange‐traded funds (ETFs) are a potential catalyst for short‐horizon liquidity traders. The liquidity shocks can propagate to the underlying securities through the arbitrage channel, and ETFs may increase the nonfundamental volatility of the securities in their baskets. We exploit exogenous changes in index membership and find that stocks with higher ETF ownership display significantly higher volatility. ETF ownership increases the negative autocorrelation in stock prices. The increase in volatility appears to introduce undiversifiable risk in prices because stocks with high ETF ownership earn a significant risk premium of up to 56 basis points monthly.</p>
-<p><strong>DOI</strong>:</p></br></br> 
+<p><strong>DOI</strong>:</br></br> </p>
  
 
 <p><strong>Unscheduled News and Market Dynamics</strong></p>
 <p>Jérôme Dugast&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Abstract:</strong>&nbsp;&nbsp;&nbsp;When unscheduled news arrives, investors react with a stochastic delay yet still may exploit new information. In this context, I study the equilibrium dynamics of limit order markets. Continuous idiosyncratic liquidity shocks result in trades on both sides of the order book. News therefore arrives at random times. Following news, order flows become unbalanced and market depth is consumed, leading to positive covariance between price variability, trading volume, and order book unbalances. Holding the unconditional price variability constant, news frequency has a negative effect on both market depth and the variability‐volume covariance.</p>
-<p><strong>DOI</strong>:
-</p>
-</br></br>  
+<p><strong>DOI</strong>:</p></br></br>  
+
 
 <p><strong>Arrested Development: Theory and Evidence of Supply‐Side Speculation in the Housing Market</strong></p>
 <p>Charles G. Nathanson&nbsp;&nbsp;&nbsp;Eric Zwick&nbsp;&nbsp;&nbsp;</p>
