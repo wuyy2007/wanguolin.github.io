@@ -14,6 +14,8 @@ tags: [Github]
 
 我用的这个博客生成引擎所默认的Markdown引擎，是支持LaTeX扩展的，但是这个实现比较粗糙：将LaTeX渲染成为PNG或者PDF，我不喜欢这个笨重而又粗糙的方案。可是我又看到老美的Blog里面提到（可能这个人认识Github的程序员？）Github不愿以用自己的CPU去渲染数学公式或者特殊字体排版。如果说此话属实，这就意味着我无法利用某些原生语法来让Github直接渲染公式系统了。
 
+[Common Ownership in America: 1980-2017](https://github.com/wuyy2007/resouce/raw/master/webcontentpic/w25454.pdf). 
+
 于是想到了和我的博客评论一样的思路（我的博客使用的是Duoshuo外挂评论，因为本质上Github.Page支持的都是静态页面），那么是不是有什么外挂Javascript的方案支持跨浏览器的内容渲染呢？于是再次验证了这一行的铁律：凡是你想到的都有人实现过了:[MathJax](http://www.mathjax.org/)。
 
 
