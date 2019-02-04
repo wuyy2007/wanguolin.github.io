@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The End Of Economics? vs Has Economics Failed Us? Hardly)"
+title: "The End Of Economics? vs Has Economics Failed Us? Hardly"
 description: ""
 category: 经济学
 tags: [杂文]
