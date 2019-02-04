@@ -2,8 +2,8 @@
 layout: post
 title: "愿世界和平，愿万家灯火"
 description: ""
-category: 经济学
-tags: [工作论文]
+category: 域外
+tags: [随感]
 ---
 {% include JB/setup %}
 
