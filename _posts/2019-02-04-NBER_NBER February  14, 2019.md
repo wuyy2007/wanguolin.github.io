@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NBER February  4, 2019"
+title: "愿世界和平，愿万家灯火"
 description: ""
 category: 经济学
 tags: [工作论文]
