@@ -6,8 +6,9 @@ category: 经济学
 tags: [杂文]
 ---
 {% include JB/setup %}
-<a href="https://fareedzakaria.com/columns/2019/1/22/the-end-of-economics"><strong>The End Of Economics?</strong> </a>
-  /Fazeed Zakaria
+<strong></strong>
+  /Lars Peter Hansen
+
 
 
 <p>最近我经常听到“基于实证研究制定的政策”（evidence-based policy）这个说法。若非纯粹以营销为目的，这个说法并不妥当，它误导性的描述将影响人们的理解。虽然我们希望凡事讲求真凭实据，但证据本身其实很少能说明问题，通常它需要以建构模型或概念框架来解释。换句话说，无论是经济学家还是一般大众，在解决问题时都需要通过两个方面才能得出结论：数据，以及理解数据的方法。</p>
