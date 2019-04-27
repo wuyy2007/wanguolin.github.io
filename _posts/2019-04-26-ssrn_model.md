@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Winner Of The ECTJ Denis Sargan Prize"
+title: "FEN Behavioral & Experimental Finance eJournal, Vol. 11 No. 42,04/26/2019"
 description: ""
 category: 经济学
 tags: [杂文]
