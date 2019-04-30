@@ -8,7 +8,7 @@ tags: [随感]
 {% include JB/setup %}
 
 
-<p>十年，六进，二亚，终称王</p>
+<p>十年，六进，两亚，终称王</p>
 <p>半决赛，打丁宁11-0，决赛，打陈梦11-0，她说她值得这个冠军</p>
 
 <img class="" data-ratio="0.5625" data-type="jpeg" data-w="2976" height="352.125" title="" width="626" 
