@@ -225,6 +225,13 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 c_{tjl}=\underset{cjl}{\underbrace{\arg\min}} \sum_{i=1}^{m} \sum_{k=1}^{K}L(y_k,f_{t-1,l}(x))+\sum _{j=1}^{J}c_{jl},I(x_i\in R_{tj})
 </annotation></semantics></math></script>
 
+
+<script type="math/mml" id="MathJax-Element-48"><math><semantics><mrow><msub><mi>c</mi><mrow><mi>t</mi><mi>j</mi><mi>l</mi></mrow></msub><mo>=</mo><munder><mo><munder><mrow><mi>arg</mi><mo>⁡</mo><mi>min</mi><mo>⁡</mo></mrow><mo stretchy="true">⎵</mo></munder></mo><mrow><mi>c</mi><mi>j</mi><mi>l</mi></mrow></munder><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>m</mi></munderover><munderover><mo>∑</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>K</mi></munderover><mi>L</mi><mo>(</mo><msub><mi>y</mi><mi>k</mi></msub><mo separator="true">,</mo><msub><mi>f</mi><mrow><mi>t</mi><mo>−</mo><mn>1</mn><mo separator="true">,</mo><mi>l</mi></mrow></msub><mo>(</mo><mi>x</mi><mo>)</mo><mo>)</mo><mo>+</mo><munderover><mo>∑</mo><mrow><mi>j</mi><mo>=</mo><mn>1</mn></mrow><mi>J</mi></munderover><msub><mi>c</mi><mrow><mi>j</mi><mi>l</mi></mrow></msub><mo separator="true">,</mo><mi>I</mi><mo>(</mo><msub><mi>x</mi><mi>i</mi></msub><mo>∈</mo><msub><mi>R</mi><mrow><mi>t</mi><mi>j</mi></mrow></msub><mo>)</mo></mrow><annotation encoding="application/x-tex">
+c_{tjl}=\underset{cjl}{\underbrace{\arg\min}} \sum_{i=1}^{m} \sum_{k=1}^{K}L(y_k,f_{t-1,l}(x))+\sum _{j=1}^{J}c_{jl},I(x_i\in R_{tj})
+</annotation></semantics></math></script>
+
+
+
 </span>
 
 
