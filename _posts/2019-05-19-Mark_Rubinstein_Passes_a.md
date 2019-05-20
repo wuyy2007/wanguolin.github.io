@@ -278,7 +278,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
 
 
 <br>
-由于上式比较难优化，我们用近似值代替.....https://blog.csdn.net/XiaoYi_Eric/article/details/80167968<br>
+https://blog.csdn.net/XiaoYi_Eric/article/details/80167968<br>
 
 
 
