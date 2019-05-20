@@ -20,46 +20,18 @@ tags: [杂文]
     <meta name="referrer" content="always">
     <meta http-equiv="Cache-Control" content="no-siteapp"><link rel="alternate" media="handheld" href="#">
     <meta name="shenma-site-verification" content="5a59773ab8077d4a62bf469ab966a63b_1497598848">
-        <meta name="csdn-baidu-search" content="{&quot;autorun&quot;:true,&quot;install&quot;:true,&quot;keyword&quot;:&quot;机器学习之梯度提升决策树(GBDT) - 谓之小一&quot;}">
-    
-    <link href="https://csdnimg.cn/public/favicon.ico" rel="SHORTCUT ICON">
-    <title>机器学习之梯度提升决策树(GBDT) - 谓之小一 - CSDN博客</title>
+
+
 
         
-                    <link rel="stylesheet" href="https://csdnimg.cn/release/phoenix/template/css/detail-6dbab8d2dd.min.css">
-            
-            <script src="https://hm.baidu.com/hm.js?6bcd52f51e9b3dce32bec4a3997715ac"></script><script type="application/ld+json">{"@context":"https:\/\/ziyuan.baidu.com\/contexts\/cambrian.jsonld","@id":"https:\/\/blog.csdn.net\/XiaoYi_Eric\/article\/details\/80167968","appid":"1563894916825412","title":"\u673a\u5668\u5b66\u4e60\u4e4b\u68af\u5ea6\u63d0\u5347\u51b3\u7b56\u6811(GBDT) - \u8c13\u4e4b\u5c0f\u4e00","images":["https:\/\/img-blog.csdnimg.cn\/20181117210327497.png?x-oss-process=image\/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1hpYW9ZaV9Fcmlj,size_16,color_FFFFFF,t_70","https:\/\/img-blog.csdnimg.cn\/20181117210337951.png?x-oss-process=image\/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1hpYW9ZaV9Fcmlj,size_16,color_FFFFFF,t_70","https:\/\/img-blog.csdnimg.cn\/20181117210350274.png?x-oss-process=image\/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1hpYW9ZaV9Fcmlj,size_16,color_FFFFFF,t_70"],"pubDate":"2019-05-20T10:40:44"}</script>
-        
-            <link rel="stylesheet" href="https://csdnimg.cn/release/phoenix/themes/skin-blackboard/skin-blackboard-1340d63bd5.min.css">
-        <script type="text/javascript">
-        var username = "XiaoYi_Eric";
-        var blog_address = "https://blog.csdn.net/xiaoyi_eric";
-        var static_host = "https://csdnimg.cn/release/phoenix/";
-        var currentUserName = "";
-        var isShowAds = true;
-        var isOwner = false;
-        var loginUrl = "http://passport.csdn.net/account/login?from=https://blog.csdn.net/XiaoYi_Eric/article/details/80167968"
-        var blogUrl = "https://blog.csdn.net/";
 
-        var curSkin = "skin-blackboard";
-        // 第四范式所需数据
-        var articleTitles = "机器学习之梯度提升决策树(GBDT) - 谓之小一";
-        
-        var nickName = "谓之小一";
-        var isCorporate = false;
-        var subDomainBlogUrl = "https://blog.csdn.net/"
-        var digg_base_url = "https://blog.csdn.net/xiaoyi_eric/phoenix/comment";
-        var articleDetailUrl = "https://blog.csdn.net/XiaoYi_Eric/article/details/80167968";
-    </script>
-    <script src="https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js" type="text/javascript"></script>
-    <script src="https://csdnimg.cn/rabbit/exposure-click/main-1.0.6.js"></script>
-    <script src="//g.csdnimg.cn/??fixed-sidebar/1.1.3/fixed-sidebar.js,track/1.2.6/track.js" type="text/javascript"></script>
-    <link rel="stylesheet" href="https://csdnimg.cn/public/sandalstrap/1.4/css/sandalstrap.min.css">
-    <style>
+	<style>
         .MathJax, .MathJax_Message, .MathJax_Preview{
             display: none
         }
     </style>
+	
+	
 <link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=blog.csdn.net" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=blog.csdn.net"></script><link rel="preload" href="https://pagead2.googlesyndication.com/pagead/js/r20190513/r20190131/show_ads_impl.js" as="script"><style type="text/css">.recommend-box ._4paradigm_box.T3 a .content-box{margin-left:0} .recommend-box ._4paradigm_box.T3 a .content-box h4{vertical-align:top}.recommend-box ._4paradigm_box.p4courset3_target {padding:0}.recommend-box ._4paradigm_box._paradigm_T_ads_render {padding:0} .recommend-box ._4paradigm_box._paradigm_T_ads_render a {width:100%;display:inline-block} ._4paradigm_box._paradigm_T_ads_render a:hover .text-truncate{color:#ca0c16}</style><script src="https://csdnimg.cn/static/api/js/share.js?v=89860594"></script><link rel="stylesheet" type="text/css" href="//csdnimg.cn/public/common/gotop/css/goTop.min.css?v20180912133540"><style type="text/css">pre{position: relative}pre:hover .hljs-button{display: block}.hljs-button{display: none;position: absolute;right: 4px;top: 4px;font-size: 12px;color: #4d4d4d;background-color: white;padding: 2px 8px;margin: 8px;border-radius: 4px;cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.05), 0 2px 4px rgba(0,0,0,0.05);}.hljs-button:after{content: attr(data-title)}</style><style type="text/css">.hljs-ln{border-collapse:collapse}            .hljs-ln td{padding:0}            .hljs-ln-n{text-align: right;padding-right: 8px;}            .hljs-ln-n:before{content:attr(data-line-number)}</style><script charset="UTF-8" src="https://entry.baidu.com/rp/bwordcom?di=&amp;user=&amp;page_url=https%3A%2F%2Fblog.csdn.net%2FXiaoYi_Eric%2Farticle%2Fdetails%2F80167968&amp;logid=111&amp;title=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%A2%AF%E5%BA%A6%E6%8F%90%E5%8D%87%E5%86%B3%E7%AD%96%E6%A0%91(GBDT)%20-%20%E8%B0%93%E4%B9%8B%E5%B0%8F%E4%B8%80%20-%20CSDN%E5%8D%9A%E5%AE%A2&amp;jsonp=baidu_bw_1558320047224"></script><script type="text/javascript" src="https://g.csdnimg.cn/check-adb/1.0.4/check-adb.js"></script><script type="text/javascript" src="//csdnimg.cn/search/baidu_opensug-1.0.0.js"></script><link rel="stylesheet" type="text/css" href="https://g.csdnimg.cn/check-adb/1.0.4/css/check-adb.css"><script type="text/javascript" src="https://g.csdnimg.cn/lib/fuckadblock/3.2.1/fuckadblock.min.js"></script><style type="text/css"></style><style type="text/css"></style><style type="text/css"></style><style type="text/css"></style><style type="text/css"></style><style type="text/css"></style><style type="text/css"></style><style type="text/css"></style><style type="text/css"></style><style type="text/css"></style><style type="text/css"></style><style type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
 .MathJax_Menu_Button .MathJax_Hover_Arrow {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -khtml-border-radius: 4px; font-family: 'Courier New',Courier; font-size: 9px; color: #F0F0F0}
 .MathJax_Menu_Button .MathJax_Hover_Arrow span {display: block; background-color: #AAA; border: 1px solid; border-radius: 3px; line-height: 0; padding: 4px}
