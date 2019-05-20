@@ -203,9 +203,68 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 <h4><a id="32GBDT_119" target="_blank"></a>3.2多元GBDT分类算法</h4>
 
 其实这里的误差就是样本i对应类别l的真实概率和t-1轮预测概率的差值。对于生成的决策树，我们各个叶子节点的最佳残差拟合值为<br>
-<span class="katex--display"><span class="katex-display"><span class="katex"><span class="katex-mathml"><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax_Error" id="MathJax-Element-48-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><semantics><mrow><msub><mi>c</mi><mrow><mi>t</mi><mi>j</mi><mi>l</mi></mrow></msub><mo>=</mo><munder><mo><munder><mrow><mi>arg</mi><mo>&amp;#x2061;</mo><mi>min</mi><mo>&amp;#x2061;</mo></mrow><mo stretchy=&quot;true&quot;>&amp;#x23B5;</mo></munder></mo><mrow><mi>c</mi><mi>j</mi><mi>l</mi></mrow></munder><munderover><mo>&amp;#x2211;</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>m</mi></munderover><munderover><mo>&amp;#x2211;</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>K</mi></munderover><mi>L</mi><mo>(</mo><msub><mi>y</mi><mi>k</mi></msub><mo separator=&quot;true&quot;>,</mo><msub><mi>f</mi><mrow><mi>t</mi><mo>&amp;#x2212;</mo><mn>1</mn><mo separator=&quot;true&quot;>,</mo><mi>l</mi></mrow></msub><mo>(</mo><mi>x</mi><mo>)</mo><mo>)</mo><mo>+</mo><munderover><mo>&amp;#x2211;</mo><mrow><mi>j</mi><mo>=</mo><mn>1</mn></mrow><mi>J</mi></munderover><msub><mi>c</mi><mrow><mi>j</mi><mi>l</mi></mrow></msub><mo separator=&quot;true&quot;>,</mo><mi>I</mi><mo>(</mo><msub><mi>x</mi><mi>i</mi></msub><mo>&amp;#x2208;</mo><msub><mi>R</mi><mrow><mi>t</mi><mi>j</mi></mrow></msub><mo>)</mo></mrow><annotation encoding=&quot;application/x-tex&quot;>      c_{tjl}=\underset{cjl}{\underbrace{\arg\min}} \sum_{i=1}^{m} \sum_{k=1}^{K}L(y_k,f_{t-1,l}(x))+\sum _{j=1}^{J}c_{jl},I(x_i\in R_{tj})</annotation></semantics></math>" role="presentation" style="position: relative;"><span aria-hidden="true">[Math Processing Error]</span><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>c</mi><mrow><mi>t</mi><mi>j</mi><mi>l</mi></mrow></msub><mo>=</mo><munder><mo><munder><mrow><mi>arg</mi><mo>⁡</mo><mi>min</mi><mo>⁡</mo></mrow><mo stretchy="true">⎵</mo></munder></mo><mrow><mi>c</mi><mi>j</mi><mi>l</mi></mrow></munder><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>m</mi></munderover><munderover><mo>∑</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>K</mi></munderover><mi>L</mi><mo>(</mo><msub><mi>y</mi><mi>k</mi></msub><mo separator="true">,</mo><msub><mi>f</mi><mrow><mi>t</mi><mo>−</mo><mn>1</mn><mo separator="true">,</mo><mi>l</mi></mrow></msub><mo>(</mo><mi>x</mi><mo>)</mo><mo>)</mo><mo>+</mo><munderover><mo>∑</mo><mrow><mi>j</mi><mo>=</mo><mn>1</mn></mrow><mi>J</mi></munderover><msub><mi>c</mi><mrow><mi>j</mi><mi>l</mi></mrow></msub><mo separator="true">,</mo><mi>I</mi><mo>(</mo><msub><mi>x</mi><mi>i</mi></msub><mo>∈</mo><msub><mi>R</mi><mrow><mi>t</mi><mi>j</mi></mrow></msub><mo>)</mo></mrow><annotation encoding="application/x-tex">      c_{tjl}=\underset{cjl}{\underbrace{\arg\min}} \sum_{i=1}^{m} \sum_{k=1}^{K}L(y_k,f_{t-1,l}(x))+\sum _{j=1}^{J}c_{jl},I(x_i\in R_{tj})</annotation></semantics></math></span></span><script type="math/mml" id="MathJax-Element-48"><math><semantics><mrow><msub><mi>c</mi><mrow><mi>t</mi><mi>j</mi><mi>l</mi></mrow></msub><mo>=</mo><munder><mo><munder><mrow><mi>arg</mi><mo>⁡</mo><mi>min</mi><mo>⁡</mo></mrow><mo stretchy="true">⎵</mo></munder></mo><mrow><mi>c</mi><mi>j</mi><mi>l</mi></mrow></munder><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>m</mi></munderover><munderover><mo>∑</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>K</mi></munderover><mi>L</mi><mo>(</mo><msub><mi>y</mi><mi>k</mi></msub><mo separator="true">,</mo><msub><mi>f</mi><mrow><mi>t</mi><mo>−</mo><mn>1</mn><mo separator="true">,</mo><mi>l</mi></mrow></msub><mo>(</mo><mi>x</mi><mo>)</mo><mo>)</mo><mo>+</mo><munderover><mo>∑</mo><mrow><mi>j</mi><mo>=</mo><mn>1</mn></mrow><mi>J</mi></munderover><msub><mi>c</mi><mrow><mi>j</mi><mi>l</mi></mrow></msub><mo separator="true">,</mo><mi>I</mi><mo>(</mo><msub><mi>x</mi><mi>i</mi></msub><mo>∈</mo><msub><mi>R</mi><mrow><mi>t</mi><mi>j</mi></mrow></msub><mo>)</mo></mrow><annotation encoding="application/x-tex">
+
+<span class="katex--display">
+<span class="katex-display">
+<span class="katex">
+<span class="katex-mathml">
+<span class="MathJax_Preview" style="color: inherit; display: none;">
+</span>
+
+<span class="MathJax_Error" id="MathJax-Element-48-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><semantics><mrow><msub><mi>c</mi><mrow><mi>t</mi><mi>j</mi><mi>l</mi></mrow></msub><mo>=</mo><munder><mo><munder><mrow><mi>arg</mi><mo>&amp;#x2061;</mo><mi>min</mi><mo>&amp;#x2061;</mo></mrow><mo stretchy=&quot;true&quot;>&amp;#x23B5;</mo></munder></mo><mrow><mi>c</mi><mi>j</mi><mi>l</mi></mrow></munder><munderover><mo>&amp;#x2211;</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>m</mi></munderover><munderover><mo>&amp;#x2211;</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>K</mi></munderover><mi>L</mi><mo>(</mo><msub><mi>y</mi><mi>k</mi></msub><mo separator=&quot;true&quot;>,</mo><msub><mi>f</mi><mrow><mi>t</mi><mo>&amp;#x2212;</mo><mn>1</mn><mo separator=&quot;true&quot;>,</mo><mi>l</mi></mrow></msub><mo>(</mo><mi>x</mi><mo>)</mo><mo>)</mo><mo>+</mo><munderover><mo>&amp;#x2211;</mo><mrow><mi>j</mi><mo>=</mo><mn>1</mn></mrow><mi>J</mi></munderover><msub><mi>c</mi><mrow><mi>j</mi><mi>l</mi></mrow></msub><mo separator=&quot;true&quot;>,</mo><mi>I</mi><mo>(</mo><msub><mi>x</mi><mi>i</mi></msub><mo>&amp;#x2208;</mo><msub><mi>R</mi><mrow><mi>t</mi><mi>j</mi></mrow></msub><mo>)</mo></mrow><annotation encoding=&quot;application/x-tex&quot;>      c_{tjl}=\underset{cjl}{\underbrace{\arg\min}} \sum_{i=1}^{m} \sum_{k=1}^{K}L(y_k,f_{t-1,l}(x))+\sum _{j=1}^{J}c_{jl},I(x_i\in R_{tj})</annotation></semantics></math>" role="presentation" style="position: relative;">
+<span aria-hidden="true">[Math Processing Error]
+</span>
+
+
+<span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>c</mi><mrow><mi>t</mi><mi>j</mi><mi>l</mi></mrow></msub><mo>=</mo><munder><mo><munder><mrow><mi>arg</mi><mo>⁡</mo><mi>min</mi><mo>⁡</mo></mrow><mo stretchy="true">⎵</mo></munder></mo><mrow><mi>c</mi><mi>j</mi><mi>l</mi></mrow></munder><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>m</mi></munderover><munderover><mo>∑</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>K</mi></munderover><mi>L</mi><mo>(</mo><msub><mi>y</mi><mi>k</mi></msub><mo separator="true">,</mo><msub><mi>f</mi><mrow><mi>t</mi><mo>−</mo><mn>1</mn><mo separator="true">,</mo><mi>l</mi></mrow></msub><mo>(</mo><mi>x</mi><mo>)</mo><mo>)</mo><mo>+</mo><munderover><mo>∑</mo><mrow><mi>j</mi><mo>=</mo><mn>1</mn></mrow><mi>J</mi></munderover><msub><mi>c</mi><mrow><mi>j</mi><mi>l</mi></mrow></msub><mo separator="true">,</mo><mi>I</mi><mo>(</mo><msub><mi>x</mi><mi>i</mi></msub><mo>∈</mo><msub><mi>R</mi><mrow><mi>t</mi><mi>j</mi></mrow></msub><mo>)</mo></mrow><annotation encoding="application/x-tex">      c_{tjl}=\underset{cjl}{\underbrace{\arg\min}} \sum_{i=1}^{m} \sum_{k=1}^{K}L(y_k,f_{t-1,l}(x))+\sum _{j=1}^{J}c_{jl},I(x_i\in R_{tj})</annotation></semantics></math>
+</span>
+</span>
+
+
+<script type="math/mml" id="MathJax-Element-48"><math><semantics><mrow><msub><mi>c</mi><mrow><mi>t</mi><mi>j</mi><mi>l</mi></mrow></msub><mo>=</mo><munder><mo><munder><mrow><mi>arg</mi><mo>⁡</mo><mi>min</mi><mo>⁡</mo></mrow><mo stretchy="true">⎵</mo></munder></mo><mrow><mi>c</mi><mi>j</mi><mi>l</mi></mrow></munder><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>m</mi></munderover><munderover><mo>∑</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>K</mi></munderover><mi>L</mi><mo>(</mo><msub><mi>y</mi><mi>k</mi></msub><mo separator="true">,</mo><msub><mi>f</mi><mrow><mi>t</mi><mo>−</mo><mn>1</mn><mo separator="true">,</mo><mi>l</mi></mrow></msub><mo>(</mo><mi>x</mi><mo>)</mo><mo>)</mo><mo>+</mo><munderover><mo>∑</mo><mrow><mi>j</mi><mo>=</mo><mn>1</mn></mrow><mi>J</mi></munderover><msub><mi>c</mi><mrow><mi>j</mi><mi>l</mi></mrow></msub><mo separator="true">,</mo><mi>I</mi><mo>(</mo><msub><mi>x</mi><mi>i</mi></msub><mo>∈</mo><msub><mi>R</mi><mrow><mi>t</mi><mi>j</mi></mrow></msub><mo>)</mo></mrow><annotation encoding="application/x-tex">
 c_{tjl}=\underset{cjl}{\underbrace{\arg\min}} \sum_{i=1}^{m} \sum_{k=1}^{K}L(y_k,f_{t-1,l}(x))+\sum _{j=1}^{J}c_{jl},I(x_i\in R_{tj})
-</annotation></semantics></math></script></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.716668em; vertical-align: -0.286108em;"></span><span class="mord"><span class="mord mathit">c</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.336108em;"><span class="" style="top: -2.55em; margin-left: 0em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathit mtight">t</span><span class="mord mathit mtight" style="margin-right: 0.05724em;">j</span><span class="mord mathit mtight" style="margin-right: 0.01968em;">l</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.286108em;"><span class=""></span></span></span></span></span></span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 3.55899em; vertical-align: -1.73066em;"></span><span class="mord"><span class="mop op-limits"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.66786em;"><span class="" style="top: -1.20545em; margin-left: 0em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathit mtight">c</span><span class="mord mathit mtight" style="margin-right: 0.05724em;">j</span><span class="mord mathit mtight" style="margin-right: 0.01968em;">l</span></span></span></span><span class="" style="top: -2.7em;"><span class="pstrut" style="height: 2.7em;"></span><span class=""><span class="mop"><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.66786em;"><span class="svg-align" style="top: -1.82542em;"><span class="pstrut" style="height: 2.66786em;"></span><span class="stretchy" style="height: 0.548em; min-width: 1.6em;"><span class="brace-left" style="height: 0.548em;"><svg width="400em" height="0.548em" viewBox="0 0 400000 548" preserveAspectRatio="xMinYMin slice"><path d="M0 6l6-6h17c12.688 0 19.313.3 20 1 4 4 7.313 8.3 10 13
+</annotation></semantics></math></script>
+
+</span>
+
+
+<span class="katex-html" aria-hidden="true">
+<span class="base">
+<span class="strut" style="height: 0.716668em; vertical-align: -0.286108em;">
+</span>
+
+<span class="mord">
+<span class="mord mathit">c</span>
+<span class="msupsub">
+<span class="vlist-t vlist-t2">
+<span class="vlist-r">
+<span class="vlist" style="height: 0.336108em;">
+<span class="" style="top: -2.55em; margin-left: 0em; margin-right: 0.05em;">
+<span class="pstrut" style="height: 2.7em;"></span>
+<span class="sizing reset-size6 size3 mtight">
+<span class="mord mtight">
+<span class="mord mathit mtight">t</span>
+
+<span class="mord mathit mtight" style="margin-right: 0.05724em;">j</span>
+
+<span class="mord mathit mtight" style="margin-right: 0.01968em;">l</span></span></span></span></span>
+
+
+<span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.286108em;"><span class=""></span></span></span></span></span></span><span class="mspace" style="margin-right: 0.277778em;">
+</span>
+<span class="mrel">=</span>
+<span class="mspace" style="margin-right: 0.277778em;"></span></span>
+
+<span class="base"><span class="strut" style="height: 3.55899em; vertical-align: -1.73066em;"></span><span class="mord"><span class="mop op-limits"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.66786em;">
+<span class="" style="top: -1.20545em; margin-left: 0em;">
+<span class="pstrut" style="height: 2.7em;"></span>
+<span class="sizing reset-size6 size3 mtight">
+<span class="mord mtight">
+<span class="mord mathit mtight">c</span>
+<span class="mord mathit mtight" style="margin-right: 0.05724em;">j</span>
+<span class="mord mathit mtight" style="margin-right: 0.01968em;">l</span></span></span></span>
+
+<span class="" style="top: -2.7em;"><span class="pstrut" style="height: 2.7em;"></span><span class=""><span class="mop"><span class="mord munder"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.66786em;"><span class="svg-align" style="top: -1.82542em;"><span class="pstrut" style="height: 2.66786em;"></span><span class="stretchy" style="height: 0.548em; min-width: 1.6em;"><span class="brace-left" style="height: 0.548em;"><svg width="400em" height="0.548em" viewBox="0 0 400000 548" preserveAspectRatio="xMinYMin slice"><path d="M0 6l6-6h17c12.688 0 19.313.3 20 1 4 4 7.313 8.3 10 13
  35.313 51.3 80.813 93.8 136.5 127.5 55.688 33.7 117.188 55.8 184.5 66.5.688
  0 2 .3 4 1 18.688 2.7 76 4.3 172 5h399450v120H429l-6-1c-124.688-8-235-61.7
 -331-161C60.687 138.7 32.312 99.3 7 54L0 41V6z"></path></svg></span><span class="brace-center" style="height: 0.548em;"><svg width="400em" height="0.548em" viewBox="0 0 400000 548" preserveAspectRatio="xMidYMin slice"><path d="M199572 214
