@@ -202,7 +202,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 
 <h4><a id="32GBDT_119" target="_blank"></a>3.2多元GBDT分类算法</h4>
 
-其实这里的误差就是样本i对应类别l的真实概率和t-1轮预测概率的差值。对于生成的决策树，我们各个叶子节点的最佳残差拟合值为<br>
+拟合值为<br>
 
 <span class="katex--display">
 <span class="katex-display">
