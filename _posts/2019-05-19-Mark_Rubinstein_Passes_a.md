@@ -202,7 +202,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 
 <h4><a id="32GBDT_119" target="_blank"></a>3.2多元GBDT分类算法</h4>
 
-拟为<br>
+为<br>
 
 <span class="katex--display">
 <span class="katex-display">
