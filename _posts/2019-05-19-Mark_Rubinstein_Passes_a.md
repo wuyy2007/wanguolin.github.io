@@ -211,9 +211,13 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 <span class="MathJax_Preview" style="color: inherit; display: none;">
 </span>
 
-<span class="MathJax_Error" id="MathJax-Element-48-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><semantics><mrow><msub><mi>c</mi><mrow><mi>t</mi><mi>j</mi><mi>l</mi></mrow></msub><mo>=</mo><munder><mo><munder><mrow><mi>arg</mi><mo>&amp;#x2061;</mo><mi>min</mi><mo>&amp;#x2061;</mo></mrow><mo stretchy=&quot;true&quot;>&amp;#x23B5;</mo></munder></mo><mrow><mi>c</mi><mi>j</mi><mi>l</mi></mrow></munder><munderover><mo>&amp;#x2211;</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>m</mi></munderover><munderover><mo>&amp;#x2211;</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>K</mi></munderover><mi>L</mi><mo>(</mo><msub><mi>y</mi><mi>k</mi></msub><mo separator=&quot;true&quot;>,</mo><msub><mi>f</mi><mrow><mi>t</mi><mo>&amp;#x2212;</mo><mn>1</mn><mo separator=&quot;true&quot;>,</mo><mi>l</mi></mrow></msub><mo>(</mo><mi>x</mi><mo>)</mo><mo>)</mo><mo>+</mo><munderover><mo>&amp;#x2211;</mo><mrow><mi>j</mi><mo>=</mo><mn>1</mn></mrow><mi>J</mi></munderover><msub><mi>c</mi><mrow><mi>j</mi><mi>l</mi></mrow></msub><mo separator=&quot;true&quot;>,</mo><mi>I</mi><mo>(</mo><msub><mi>x</mi><mi>i</mi></msub><mo>&amp;#x2208;</mo><msub><mi>R</mi><mrow><mi>t</mi><mi>j</mi></mrow></msub><mo>)</mo></mrow><annotation encoding=&quot;application/x-tex&quot;>      c_{tj}=\underset{c}{\underbrace{\arg\min}} \sum_{i=999}^{m} \sum_{k=1}^{K}L(y_k,f_{t-1,l}(x))+\sum _{j=1}^{J}c_{jl},I(x_i\in R_{tj})</annotation></semantics></math>" role="presentation" style="position: relative;">
-<span aria-hidden="true">[Math Processing Error]
-</span>
+<span class="MathJax_Error" id="MathJax-Element-48-Frame" tabindex="0" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><semantics><mrow><msub><mi>c</mi><mrow><mi>t</mi><mi>j</mi><mi>l</mi></mrow></msub><mo>=</mo><munder><mo><munder><mrow><mi>arg</mi><mo>&amp;#x2061;</mo><mi>min</mi><mo>&amp;#x2061;</mo></mrow><mo stretchy=&quot;true&quot;>&amp;#x23B5;</mo></munder></mo><mrow><mi>c</mi><mi>j</mi><mi>l</mi></mrow></munder><munderover><mo>&amp;#x2211;</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>m</mi></munderover><munderover><mo>&amp;#x2211;</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mi>K</mi></munderover><mi>L</mi><mo>(</mo><msub><mi>y</mi><mi>k</mi></msub><mo separator=&quot;true&quot;>,</mo><msub><mi>f</mi><mrow><mi>t</mi><mo>&amp;#x2212;</mo><mn>1</mn><mo separator=&quot;true&quot;>,</mo><mi>l</mi></mrow></msub><mo>(</mo><mi>x</mi><mo>)</mo><mo>)</mo><mo>+</mo><munderover><mo>&amp;#x2211;</mo><mrow><mi>j</mi><mo>=</mo><mn>1</mn></mrow><mi>J</mi></munderover><msub><mi>c</mi><mrow><mi>j</mi><mi>l</mi></mrow></msub><mo separator=&quot;true&quot;>,</mo><mi>I</mi><mo>(</mo><msub><mi>x</mi><mi>i</mi></msub><mo>&amp;#x2208;</mo><msub><mi>R</mi><mrow><mi>t</mi><mi>j</mi></mrow></msub><mo>)</mo></mrow>
+
+<annotation encoding=&quot;application/x-tex&quot;>      c_{tj}=\underset{c}{\underbrace{\arg\min}} \sum_{i=999}^{m} \sum_{k=1}^{K}L(y_k,f_{t-1,l}(x))+\sum _{j=1}^{J}c_{jl},I(x_i\in R_{tj})</annotation>
+</semantics></math>" role="presentation" style="position: relative;">
+
+
+<span aria-hidden="true">[Math Processing Error]</span>
 
 
 
