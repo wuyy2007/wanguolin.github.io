@@ -218,10 +218,6 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 
 
 
-
-
-
-
 </span>
 
 
