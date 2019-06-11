@@ -3,7 +3,7 @@ layout: post
 title: "Monetary targets "
 description: ""
 category: 经济学
-tags: [杂文]
+tags: [货币政策]
 ---
 {% include JB/setup %}
 
