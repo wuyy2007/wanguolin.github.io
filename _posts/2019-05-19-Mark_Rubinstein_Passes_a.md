@@ -284,7 +284,7 @@ https://blog.csdn.net/XiaoYi_Eric/article/details/80167968<br>
   
   
 <video width="320" height="240" controls>
-  <source src="https://github.com/wuyy2007/sync/blob/master/rainshow.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/rainshow.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
   <source src="movie.webm" type="video/webm">
 您的浏览器不支持 video 标签。
