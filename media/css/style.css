@@ -65,6 +65,12 @@ display:block;
 border-top: 1px dashed #CCC;
 }
 
+
+rightblog{
+margin-right:-4em;width:30em;
+}
+
+
 footer small {
 font-size: 13px;
 color: #AAA;
