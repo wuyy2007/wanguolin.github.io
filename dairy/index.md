@@ -112,9 +112,9 @@ comments: no
 			<p>  </p>
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
-				<img src="liushiwen3.PNG" height="200*0.518" width="200"/><!-- 此处是引入图片的路径 -->
-				<img src="liushiwen3.PNG" height="200*0.518" width="200"/><!-- 此处是引入图片的路径 -->
-				<img src="liushiwen3.PNG" height="200*0.518" width="200"/><!-- 此处是引入图片的路径 -->
+				<img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/liushiwen1.PNG" height="200*0.518" width="200"/><!-- 此处是引入图片的路径 -->
+				<img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/liushiwen1.PNG" height="200*0.518" width="200"/><!-- 此处是引入图片的路径 -->
+				<img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/liushiwen1.PNG" height="200*0.518" width="200"/><!-- 此处是引入图片的路径 -->
 			</div>
 
 		</span>
