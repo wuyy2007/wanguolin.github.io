@@ -109,12 +109,13 @@ comments: no
 		<span  class = "space">
 			<p>7月6日 17:02</p>
 			<font  color="red">某些复杂决策环境下，选择它并不是因为它是最好的，而是因别无可选</font>
-			<p>  </p>
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
-				<img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/liushiwen1.PNG" height="200*0.518" width="200"/><!-- 此处是引入图片的路径 -->
-				<img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/liushiwen1.PNG" height="200*0.518" width="200"/><!-- 此处是引入图片的路径 -->
-				<img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/liushiwen1.PNG" height="200*0.518" width="200"/><!-- 此处是引入图片的路径 -->
+			<table><tr>
+			<td><img src="liushiwen3.PNG" height="200*0.518" width="200" border=0 /></td>
+			<td><img src="liushiwen3.PNG" height="200*0.518" width="200" border=0 /></td>
+			<td><img src="liushiwen3.PNG" height="200*0.518" width="200" border=0 /></td>
+			</tr></table>
 			</div>
 
 		</span>
