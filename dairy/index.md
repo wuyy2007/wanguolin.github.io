@@ -8,7 +8,7 @@ comments: no
 
 
 
-<div class="panel-body" style="height: 400px; width: 400px; overflow-y:scroll">
+<div class="panel-body" style="height: 400px; width: 708px; overflow-y:scroll">
 	<div style="border: 1px  #000000; width: 90%; margin: 0 auto;">
 		<span>
 
