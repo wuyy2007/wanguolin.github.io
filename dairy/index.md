@@ -112,9 +112,9 @@ comments: no
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
 			<table><tr>
-			<td><img src="liushiwen3.PNG" height="200*0.518" width="200" border=0 /></td>
-			<td><img src="liushiwen3.PNG" height="200*0.518" width="200" border=0 /></td>
-			<td><img src="liushiwen3.PNG" height="200*0.518" width="200" border=0 /></td>
+			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/liushiwen3.PNG" height="200*0.518" width="200" border=0 /></td>
+			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/liushiwen3.PNG" height="200*0.518" width="200" border=0 /></td>
+			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/liushiwen3.PNG" height="200*0.518" width="200" border=0 /></td>
 			</tr></table>
 			</div>
 
