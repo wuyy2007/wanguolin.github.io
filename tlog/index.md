@@ -1,5 +1,5 @@
 ---
-title: 关于
+title: 点滴
 layout: page
 comments: no
 ---
