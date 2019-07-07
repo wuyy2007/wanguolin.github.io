@@ -117,7 +117,6 @@ comments: no
 		</span>
 
 
-
 		<span  class = "space">
 			<p>7月7日 11:29</p>
 			<font  color="red">这两位合作，值得细看</font>
@@ -128,6 +127,7 @@ comments: no
 			</tr></table>
 			</div>
 		</span>
+
 
 		<span  class = "space">
 			<p>7月6日 17:02</p>
@@ -148,4 +148,22 @@ comments: no
 
 		</span>
 
+
+
+		<span  class = "space">
+			<p>6月21日 11:29</p>
+			<font  color="red">总能看到人们对待自然灾害时的乐观心态--2019汉雨</font>
+
+			<table><tr>
+			<td>
+				<video width="103" height="200" controls>
+				  <source src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/failure.mp4" type="video/mp4">
+				  <source src="movie.ogg" type="video/ogg">
+				  <source src="movie.webm" type="video/webm">
+				您的浏览器不支持 video 标签。
+				</video>			
+			</td>
+			</tr></table>
+			</div>
+		</span>
 	
