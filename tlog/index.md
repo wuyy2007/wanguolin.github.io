@@ -114,7 +114,7 @@ comments: no
 
 		<span  class = "space">
 			<p>7月30日 17:23</p>
-			<font  color="red">凌晨的火车站里有一奇怪现象：女性乘客看起来会想象中的更多。</font>
+			<font  color="red">凌晨的火车站里有一奇怪现象：女性乘客看起来会比想象中的更多。</font>
 
 		</span>
 
