@@ -110,6 +110,17 @@ comments: no
 
 	<div class="panel-body" style="height: 400px; width: 708px; overflow-y:scroll">
 	<div style="border: 1px  #000000; width: 90%; margin: 0 auto;">
+
+
+		<span  class = "space">
+			<p>7月30日 17:23</p>
+			<font  color="red">凌晨的火车站里有一奇怪现象，女性乘客看起来会更多。</font>
+
+		</span>
+
+
+
+
 		<span  class = "space">
 			<p>7月7日 14:47</p>
 			<font  color="red">调查数据一大优势是能够提供关于行为信念的直接证据，但也有四各方面的批判：样本量小且非代表性，精心设计的问题有时与模型所需的信息点不符，测量误差，个人行为有时是基于实际行动而非自我感知的。</font>
