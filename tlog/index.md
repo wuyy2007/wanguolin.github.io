@@ -111,6 +111,20 @@ comments: no
 	<div class="panel-body" style="height: 400px; width: 708px; overflow-y:scroll">
 	<div style="border: 1px  #000000; width: 90%; margin: 0 auto;">
 
+	
+		<span  class = "space">
+			<p>7月7日 11:29</p>
+			<font  color="red">如果久跟央行外汇政策的话，那么今天这份人民币"破七"声明释放的信息比较明显。贬值预期直接解释为美国方责任，非常罕见，汇率本身或已被纳入政策工具箱，金融反击慢慢浮上水面。</font>
+			<div class="over"></div><!--背景层-->
+			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
+			<table><tr>
+			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/pboc_rmb.jpg" height="100" width="70" margin="5" /></td>
+			</tr></table>
+			</div>
+		</span>
+	
+	
+	
 
 		<span  class = "space">
 			<p>7月30日 17:23</p>
