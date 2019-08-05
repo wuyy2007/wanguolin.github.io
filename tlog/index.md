@@ -113,7 +113,7 @@ comments: no
 
 	
 		<span  class = "space">
-			<p>7月7日 11:29</p>
+			<p>8月5日 11:51</p>
 			<font  color="red">如果久跟央行外汇政策的话，那么今天这份人民币"破七"声明释放的信息比较明显。贬值预期直接解释为美国方责任，非常罕见，汇率本身或已被纳入政策工具箱，金融反击慢慢浮上水面。</font>
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
