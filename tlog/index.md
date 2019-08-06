@@ -113,7 +113,7 @@ comments: no
 
 
 		<span  class = "space">
-			<p>8月5日 11:51</p>
+			<p>8月6日 12:57</p>
 			<font  color="red">不清楚前几轮的谈判双方是如何针对人民币形成某种一致约定，但美国的三千亿增税似乎改变了这种意愿，中方自然没必要再坚持控盘，自然美方野蛮人显形。后面主动权随仍在美，但中国应该是做好了各种应急预案</font>
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
