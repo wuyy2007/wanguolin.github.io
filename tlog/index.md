@@ -116,9 +116,7 @@ comments: no
 			<font  color="red">生个二胎给头胎做个伴，听起来似乎合理。但细想一下，这不足以作为生二胎的理由，尤其在头胎较大的时候更是站不住脚。从结果来看，生二胎最终是二胎获得了有伴的福利而非头胎，头胎被强制要学会腾出资源，要学会仍让。头胎的伴其实更需要的是来自父母而非弟妹。</font>
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
-			<table><tr>
-			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/pboc_rmb.jpg" height="100" width="70" margin="5" /></td>
-			</tr></table>
+
 			</div>
 		</span>
 	
