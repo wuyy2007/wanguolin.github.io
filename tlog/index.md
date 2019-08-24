@@ -112,6 +112,19 @@ comments: no
 	<div style="border: 1px  #000000; width: 90%; margin: 0 auto;">
 
 		<span  class = "space">
+			<p>8月24日 23:03</p>
+			<font  color="red">理性人有偏见吗？理性人做的决策都正确吗？</font>
+			<div class="over"></div><!--背景层-->
+			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
+
+			</div>
+		</span>
+	
+	
+
+
+
+		<span  class = "space">
 			<p>8月22日 23:58</p>
 			<font  color="red">生个二胎给头胎做个伴，听起来似乎合理。但细想一下，这不足以作为生二胎的理由，尤其在头胎较大的时候更是站不住脚。从结果来看，生二胎最终是二胎获得了有伴的福利而非头胎，头胎被强制要学会腾出资源，要学会仍让。头胎的伴其实更需要的是来自父母而非弟妹。</font>
 			<div class="over"></div><!--背景层-->
