@@ -115,7 +115,7 @@ comments: no
 
 		<span  class = "space">
 			<p>8月25日 19:55</p>
-			<font  color="red">非常有趣的是，中国的金融改革往往放在8月。至此，中国的利、汇、贷市场化迈出了重大一步。(尽管目前这种价格形成机制仍是“人工+智能” 的特征)<a href="http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/3879648/index.html" target="_blank"><font color="green">网页连接</font></a></font>
+			<font  color="red">非常有趣的是，中国的金融改革往往放在8月。至此，中国的利、汇、贷市场化迈出了重大一步。(尽管目前这种价格形成机制的特征仍是“人工+智能” 的形式)<a href="http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/3879648/index.html" target="_blank"><font color="green">网页连接</font></a></font>
 
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
