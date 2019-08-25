@@ -111,6 +111,20 @@ comments: no
 	<div class="panel-body" style="height: 400px; width: 708px; overflow-y:scroll">
 	<div style="border: 1px  #000000; width: 90%; margin: 0 auto;">
 
+
+
+		<span  class = "space">
+			<p>8月25日 19:55</p>
+			<font  color="red">非常有趣的是，中国的金融改革往往放在8月。至此，中国的利、汇、贷市场化迈出了重大一步</font>
+			<div class="over"></div><!--背景层-->
+			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
+
+			</div>
+		</span>
+	
+	
+	
+	
 		<span  class = "space">
 			<p>8月24日 23:03</p>
 			<font  color="red">理性人有偏见吗？理性人做的决策都正确吗？</font>
