@@ -3,7 +3,7 @@ layout: post
 title: "纯粹基于实证来制定政策，真的靠谱吗？"
 description: ""
 category: 经济学
-tags: [杂文]
+tags: [金融机构与政策]
 ---
 {% include JB/setup %}
 <strong></strong>
