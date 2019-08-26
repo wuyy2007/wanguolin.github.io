@@ -3,7 +3,7 @@ layout: post
 title: "Central bank's role in macroeconomic stabilization over the next decade"
 description: ""
 category: 经济学
-tags: [理论]
+tags: [金融机构与政策]
 ---
 {% include JB/setup %}
 
