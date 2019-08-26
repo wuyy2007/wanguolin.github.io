@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Can central banking as we know it be the primary tool of macroeconomic stabilization in the industrial world over the next decade?"
+title: "Central bank'role in macroeconomic stabilization  world over the next decade"
 description: ""
 category: 经济学
 tags: [理论]
