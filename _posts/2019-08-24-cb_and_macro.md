@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Central bank'role in macroeconomic stabilization  world over the next decade"
+title: "Central bank's role in macroeconomic stabilization over the next decade"
 description: ""
 category: 经济学
 tags: [理论]
