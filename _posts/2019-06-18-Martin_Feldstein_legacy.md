@@ -3,7 +3,7 @@ layout: post
 title: "Martin Feldstein’s legacy"
 description: ""
 category: 经济学
-tags: [前沿]
+tags: [杂文]
 ---
 {% include JB/setup %}
 
