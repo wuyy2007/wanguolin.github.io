@@ -111,7 +111,17 @@ comments: no
 	<div class="panel-body" style="height: 800px; width: 708px; overflow-y:scroll">
 	<div style="border: 1px  #000000; width: 90%; margin: 0 auto;">
 
+		<span  class = "space">
+			<p>9月6日 17:43</p>
+			<font  color="red">现在的预期管理和两三年前已大不相同了，以前是直接丢给你个炮仗就炸起来，现在是在你跟前点个引子告诉你：看，我要点了啊！    <a href="http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/3886672/index.html" target="_blank"><font color="green">网页连接</font></a></font>
 
+			<div class="over"></div><!--背景层-->
+			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
+
+			</div>
+		</span>
+	
+	
 	
 		<span  class = "space">
 			<p>9月6日 16:56</p>
