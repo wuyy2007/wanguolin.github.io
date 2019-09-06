@@ -118,13 +118,16 @@ comments: no
 			<font  color="red">一分钟内上涨到一半，2分钟内到顶点。这还是要经历以下过程：当即发现官网信息，立刻做出投资决策，瞬时完成下单指令。他们怎么办到的？他们还能更快吗？</font>
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
-			<table><tr>
-			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/rr_rise_4.png" height="103" width="200" margin="5" /></td></tr>
+			<table>
+			<tr>
+			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/rr_rise_4.png" height="103" width="200" margin="5" /></td>
+			</tr>
 			<tr>
 			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/rr_rise_3.png" height="103" width="50" margin="5" /></td>
 			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/rr_rise_2.png" height="103" width="50" margin="5" /></td>
 			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/rr_rise_1.png" height="103" width="50" margin="5" /></td>
-			</tr></table>
+			</tr>
+			</table>
 			</div>
 		</span>
 
