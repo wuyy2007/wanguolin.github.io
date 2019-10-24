@@ -2,7 +2,7 @@
 layout: post
 title: "Finding Phillips"
 description: ""
-category: 方法论
+category: 经济学
 tags: [金融机构与政策]
 ---
 {% include JB/setup %}
