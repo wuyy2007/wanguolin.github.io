@@ -2,7 +2,7 @@
 layout: post
 title: "The end of inflation?"
 description: ""
-category: 方法论
+category: 经济学
 tags: [金融机构与政策]
 ---
 {% include JB/setup %}
