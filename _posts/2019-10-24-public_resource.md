@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "More ways to look after public resources than nationalisation and privatisation"
+title: "More ways to look after public resources"
 description: ""
 category: 经济学
 tags: [公共资源]
