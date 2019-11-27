@@ -111,9 +111,20 @@ comments: no
 	<div class="panel-body" style="height: 800px; width: 708px; overflow-y:scroll">
 	<div style="border: 1px  #000000; width: 90%; margin: 0 auto;">
 
-
 		<span  class = "space">
-			<p>9月24日 15:52</p>
+			<p>2019年11月27日 15:38</p>
+			<font  color="red">既然存在描述性的写作，就必须接受失真的可能性</font>
+			<div class="over"></div><!--背景层-->
+			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
+
+			</div>
+		</span>
+	
+	
+	
+	
+		<span  class = "space">
+			<p>2019年9月24日 15:52</p>
 			<font  color="red">认知演变</font>
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
@@ -130,7 +141,7 @@ comments: no
 		
 	
 		<span  class = "space">
-			<p>9月6日 18:06</p>
+			<p>2019年9月6日 18:06</p>
 			<font  color="red">一分钟内上涨到一半，2分钟内到顶点。这还是要经历以下过程：当即发现官网信息，立刻做出投资决策，瞬时完成下单指令。他们怎么办到的？他们还能更快吗？</font>
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
@@ -150,7 +161,7 @@ comments: no
 		
 	
 		<span  class = "space">
-			<p>9月6日 17:43</p>
+			<p>2019年9月6日 17:43</p>
 			<font  color="red">现在的预期管理和两三年前已大不相同了。以前是直接丢给你个炮仗就炸起来，现在是在你跟前点个引子告诉你：看，我要点了啊！    <a href="http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/3886672/index.html" target="_blank"><font color="green">网页连接</font></a></font>
 
 			<div class="over"></div><!--背景层-->
@@ -162,7 +173,7 @@ comments: no
 	
 	
 		<span  class = "space">
-			<p>9月6日 16:56</p>
+			<p>2019年9月6日 16:56</p>
 			<font  color="red">It definitely is!</font>
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
@@ -176,7 +187,7 @@ comments: no
 	
 
 		<span  class = "space">
-			<p>8月25日 19:55</p>
+			<p>2019年8月25日 19:55</p>
 			<font  color="red">非常有趣的是，中国的金融改革往往放在8月。至此，中国的利、汇、贷市场化迈出了重大一步。(尽管目前这种价格形成机制的特征仍是“人工+智能” 的形式)     <a href="http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/3879648/index.html" target="_blank"><font color="green">网页连接</font></a></font>
 
 			<div class="over"></div><!--背景层-->
@@ -189,7 +200,7 @@ comments: no
 	
 	
 		<span  class = "space">
-			<p>8月24日 23:03</p>
+			<p>2019年8月24日 23:03</p>
 			<font  color="red">理性人有偏见吗？理性人做的决策都正确吗？</font>
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
@@ -202,7 +213,7 @@ comments: no
 
 
 		<span  class = "space">
-			<p>8月22日 23:58</p>
+			<p>2019年8月22日 23:58</p>
 			<font  color="red">生个二胎给头胎做个伴，听起来似乎合理。但细想一下，这不足以作为生二胎的理由，尤其在头胎较大的时候更是站不住脚。其实是二胎获得了有伴的福利而非头胎，头胎被强制要学会腾出资源，要学会仍让。头胎的伴其实更需要的是来自父母而非弟妹。</font>
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
@@ -215,7 +226,7 @@ comments: no
 
 	
 		<span  class = "space">
-			<p>8月5日 11:51</p>
+			<p>2019年8月5日 11:51</p>
 			<font  color="red">如果久跟央行外汇政策的话，今天这份人民币"破七"声明则显得比较特殊。印象之中，这是官方首次将贬值预期直接归因于美方责任，非常罕见。汇率本身或已被纳入对外政策工具箱，金融反击慢慢浮上水面。</font>
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
@@ -229,7 +240,7 @@ comments: no
 	
 
 		<span  class = "space">
-			<p>7月30日 17:23</p>
+			<p>2019年7月30日 17:23</p>
 			<font  color="red">凌晨的火车站里有一奇怪现象：女性乘客看起来会比想象中的更多。</font>
 
 		</span>
@@ -245,7 +256,7 @@ comments: no
 
 
 		<span  class = "space">
-			<p>7月7日 11:29</p>
+			<p>2019年7月7日 11:29</p>
 			<font  color="red">这两位合作，值得细看</font>
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
@@ -270,7 +281,7 @@ comments: no
 
 		<span class = "space">
 
-			<p>7月4日 21:15</p>
+			<p>2019年7月4日 21:15</p>
 			<font  color="red">隔行听建议，本行靠自己。</font>
 
 		</span>
@@ -278,7 +289,7 @@ comments: no
 
 
 		<span  class = "space">
-			<p>6月21日 11:03</p>
+			<p>2019年6月21日 11:03</p>
 			<font  color="red">总能看到人们对待自然灾害时的乐观心态--2019汉雨</font>
 
 			<table><tr>
