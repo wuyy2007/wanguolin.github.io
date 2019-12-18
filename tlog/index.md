@@ -111,6 +111,24 @@ comments: no
 	<div class="panel-body" style="height: 800px; width: 708px; overflow-y:scroll">
 	<div style="border: 1px  #000000; width: 90%; margin: 0 auto;">
 
+
+		<span  class = "space">
+			<p>2019年12月18日 23:12</p>
+			<font  color="red">污染->情绪->行为</font>
+			<div class="over"></div><!--背景层-->
+			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
+			<table>
+			<tr>
+			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/airpollution1.png" height="103" width="50" margin="5" /></td>
+			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/airpollution2.png" height="103" width="50" margin="5" /></td>
+
+			</tr>
+			</table>
+			</div>
+		</span>
+
+
+
 		<span  class = "space">
 			<p>2019年11月27日 15:38</p>
 			<font  color="red">既然存在描述性的写作，就必须接受失真的可能性</font>
