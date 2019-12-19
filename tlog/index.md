@@ -120,7 +120,7 @@ comments: no
 			<table>
 			<tr>
 			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/airpollution1.png" height="103" width="50" margin="5" /></td>
-			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/airpollution2.png" height="103" width="50" margin="5" /></td>
+			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/airpolluton2.png" height="103" width="50" margin="5" /></td>
 
 			</tr>
 			</table>
