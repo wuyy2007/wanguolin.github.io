@@ -112,6 +112,20 @@ comments: no
 	<div style="border: 1px  #000000; width: 90%; margin: 0 auto;">
 
 
+
+
+		<span  class = "space">
+			<p>2020年1月2日 22:15</p>
+			<font  color="red">人们关注新科技的缺点，而将他们的好处视为理所当然</font>
+			<div class="over"></div><!--背景层-->
+			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
+
+			</div>
+		</span>
+	
+	
+	
+	
 		<span  class = "space">
 			<p>2019年12月18日 23:12</p>
 			<font  color="red">污染->情绪->行为</font>
