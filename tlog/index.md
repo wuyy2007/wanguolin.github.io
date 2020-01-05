@@ -112,6 +112,19 @@ comments: no
 	<div style="border: 1px  #000000; width: 90%; margin: 0 auto;">
 
 
+		<span  class = "space">
+			<p>2020年1月5日 22:28</p>
+			<font  color="red">在武汉的最后一次公司年会</font>
+			<div class="over"></div><!--背景层-->
+			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
+			<table>
+			<tr>
+			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/annual_party.png" height="50" width="103" margin="5" /></td>
+
+			</tr>
+			</table>
+			</div>
+		</span>
 
 
 		<span  class = "space">
