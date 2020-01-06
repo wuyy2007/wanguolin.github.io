@@ -113,6 +113,33 @@ comments: no
 
 
 		<span  class = "space">
+			<p>2020年1月5日 22:28</p>
+			<font  color="red">在武汉的最后一次公司年会</font>
+			<div class="over"></div><!--背景层-->
+			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
+			<table>
+			<tr>
+			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/annual_party.png" height="50" width="103" margin="5" /></td>
+
+			</tr>
+			</table>
+			</div>
+		</span>
+
+
+		<span  class = "space">
+			<p>2020年1月2日 22:15</p>
+			<font  color="red">人们关注新科技的缺点，而将他们的好处视为理所当然</font>
+			<div class="over"></div><!--背景层-->
+			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
+
+			</div>
+		</span>
+	
+	
+	
+	
+		<span  class = "space">
 			<p>2019年12月18日 23:12</p>
 			<font  color="red">污染->情绪->行为</font>
 			<div class="over"></div><!--背景层-->
