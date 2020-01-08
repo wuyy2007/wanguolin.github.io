@@ -114,7 +114,7 @@ comments: no
 	
 			<span  class = "space">
 			<p>2020年1月8日 15:50</p>
-			<font  color="red">不要把时间花在可由工具可替代的任务上</font>
+			<font  color="red">不要把时间花在可由工具替代的任务上</font>
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
 			<table>
