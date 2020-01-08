@@ -327,7 +327,7 @@ comments: no
 
 
 		<span  class = "space">
-			<p>7月7日 14:47</p>
+			<p>2019年7月7日 14:47</p>
 			<font  color="red">调查数据一大优势是能够提供关于行为信念的直接证据，但也有四各方面的批判：样本量小且非代表性，精心设计的问题有时与模型所需的信息点不符，测量误差，个人行为有时是基于实际行动而非自我感知的。</font>
 
 		</span>
@@ -346,7 +346,7 @@ comments: no
 
 
 		<span  class = "space">
-			<p>7月6日 17:02</p>
+			<p>2019年7月6日 17:02</p>
 			<font  color="red">某些复杂决策环境下，选择它并不是因为它是最好的，而是因别无可选</font>
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
