@@ -111,7 +111,25 @@ comments: no
 	<div class="panel-body" style="height: 800px; width: 708px; overflow-y:scroll">
 	<div style="border: 1px  #000000; width: 90%; margin: 0 auto;">
 
+
+
 	
+			<span  class = "space">
+			<p>2020年3月26日 22:52</p>
+			<font  color="red">一个高度依赖内部消费的经济体，碰到这种疫情导致的社交疏离，服务型劳动力自然会出现失业，特朗普的确是讨厌隔离政策。那中国内。还有法宝：大投资</font>
+			<div class="over"></div><!--背景层-->
+			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
+			<table>
+			<tr>
+			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/useue.jpg" height="100" width="50" margin="5" /></td>
+
+			</tr>
+			</table>
+			</div>
+		</span>
+		
+		
+			
 			<span  class = "space">
 			<p>2020年1月8日 15:50</p>
 			<font  color="red">不要把时间花在可由工具替代的任务上</font>
