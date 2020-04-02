@@ -112,11 +112,18 @@ comments: no
 	<div style="border: 1px  #000000; width: 90%; margin: 0 auto;">
 
 
+			<span  class = "space">
+			<p>2020年4月2日 22:41</p>
+			<font  color="red">Github Pages反应速度太慢，移站到<a href="https://wuyy2007.gitee.io" target="_blank"><font color="green">Gitee</font></a> </font>
+			<div class="over"></div><!--背景层-->
+			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
 
+			</div>
+		</span>
 	
 			<span  class = "space">
 			<p>2020年3月26日 22:52</p>
-			<font  color="red">一个高度依赖内部消费的经济体，碰到这种疫情导致的社交疏离，服务型劳动力自然会出现失业，特朗普的确是讨厌隔离政策。那中国内。还有法宝：大投资</font>
+			<font  color="red">一个高度依赖内部消费的经济体，碰到这种疫情导致的社交疏离，服务型劳动力自然会出现失业，特朗普的确是讨厌隔离政策。但在中国境内,还有法宝：大投资</font>
 			<div class="over"></div><!--背景层-->
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
 			<table>
