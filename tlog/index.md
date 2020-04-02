@@ -121,7 +121,7 @@ comments: no
 			<div class="logoImg amplifyImg"><!--注意：此处的amlifyImg不可少-->
 			<table>
 			<tr>
-			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/useue.jpg" height="100" width="50" margin="5" /></td>
+			<td><img src="https://raw.githubusercontent.com/wuyy2007/resouce/master/webcontentpic/usaue.jpg" height="100" width="50" margin="5" /></td>
 
 			</tr>
 			</table>
